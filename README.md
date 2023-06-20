@@ -1,6 +1,8 @@
 # Rotating-gallery
 
-Simple rotating-gallery creadted by using 
+Simple rotating gallery created by using 
 Html,
-Css and
-JavaScript..
+CSS and
+JavaScript.
+
+(DEMO) : [https://aneal07.github.io/Rotating-gallery/]
