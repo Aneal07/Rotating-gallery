@@ -5,4 +5,4 @@ Html,
 CSS and
 JavaScript.
 
-(DEMO) : [https://aneal07.github.io/Rotating-gallery/]
+[DEMO] : (https://aneal07.github.io/Rotating-gallery/)
